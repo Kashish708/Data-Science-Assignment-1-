@@ -7,8 +7,9 @@ This repository contains the solution for the Sampling Assignment, which focuses
 * Five different samples are created.
 * Five sampling techniques are applied to five different machine learning models.
 * Model accuracies are compared to determine which sampling technique performs best for each model.
----
-## Tasks Performed
+
+
+# Tasks Performed
 * Dataset loading and preprocessing
 * Class balancing of imbalanced data
 * Creation of multiple samples
