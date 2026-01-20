@@ -68,3 +68,12 @@ The table below shows the accuracy (%) obtained by each model using different sa
 | M3    | 0.0       | 50.0      | 66.67     | 100.0     | 66.67     |
 | M4    | 33.33     | 50.0      | 100.0     | 100.0     | 66.67     |
 | M5    | 0.0       | 50.0      | 66.67     | 100.0     | 100.0     |
+
+
+Best Sampling Technique for Each Model:
+
+|M1_Logistic        | Sampling3
+|M2_DecisionTree    | Sampling2
+|M3_RandomForest    | Sampling4
+|M4_SVM             |Sampling3
+|M5_GradientBoost   |Sampling4
