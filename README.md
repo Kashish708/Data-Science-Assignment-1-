@@ -72,8 +72,11 @@ The table below shows the accuracy (%) obtained by each model using different sa
 
 Best Sampling Technique for Each Model:
 
-|M1_Logistic        | Sampling3
-|M2_DecisionTree    | Sampling2
-|M3_RandomForest    | Sampling4
-|M4_SVM             |Sampling3
-|M5_GradientBoost   |Sampling4
+| Model                    | Best Sampling Technique |
+|--------------------------|-------------------------|
+| M1 – Logistic Regression | Sampling3               |
+| M2 – Decision Tree       | Sampling2               | 
+| M3 – Random Forest       | Sampling4               |
+| M4 – SVM                 | Sampling3               |
+| M5 – Gradient Boosting   | Sampling4               |
+
