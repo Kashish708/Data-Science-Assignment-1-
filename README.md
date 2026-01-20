@@ -1,6 +1,6 @@
 # Data-Science-Assignment-1-
 This repository contains the solution for the Sampling Assignment, which focuses on handling highly imbalanced datasets and studying the impact of different sampling techniques on machine learning model performance.
----
+
 ## Problem Overview
 * A highly imbalanced credit card dataset is used.
 * The dataset is first converted into a balanced class dataset.
